@@ -6,7 +6,7 @@ Lyon, Auvergne-Rhône-Alpes, France
 
 ## Résumé
 
-Expert en industrialisation de logiciels, spécialisé en sécurité réseau et blockchain.
+Expert en industrialisation de logiciels avec une spécialisation en sécurité réseau et blockchain. Expérience démontrée en gestion de produits techniques, développement d'équipes et amélioration des processus. Compétences éprouvées en gestion de backlog, en développement de roadmap et en transition de mode projet à mode produit.
 
 ## Expérience
 
@@ -14,22 +14,22 @@ Expert en industrialisation de logiciels, spécialisé en sécurité réseau et 
 
 #### Head of Products
 
-Octobre 2022 - Present (10 mois)
+Octobre 2022 - Présent
 
 Lyon, Auvergne-Rhône-Alpes, France
 
 Responsable de la stratégie produit d'un SDK Web3:
 
-* Crypto Wallet MPC TSS self custody sur Polygon, solutions de Tokenisation, Facilité d'intégration dans des parcours Web 2.
-* Gestion du backlog, de la roadmap, des spécifications fonctionnelles et de la documentation.
-* Réalisation d'un programme bêta et de démonstrations.
+* Crypto Wallet MPC TSS self custody sur Polygon, solutions de Tokenisation, facilité d'intégration dans des parcours Web 2.
+* Gestion du backlog, de la roadmap, des spécifications fonctionnelles (plus de 150 scénarios pour environ 3O fonctionnalités) et de la documentation.
+* Réalisation d'un programme bêta et de démonstrations (~ 2 par semaine).
 * Transformation des processus services en processus produits.
-* Optimisation des processus de production et focus sur la qualité.
-* Travail avec une équipe d'environ 15 personnes
+* Mise en place de la livraison continue avec un focus sur la qualité.
+* Travail avec une équipe d'environ 15 personnes.
 
 #### Wallet Product Manager
 
-janvier 2022 - Present (1 an 7 mois)
+Janvier 2022 - octobre 2022
 
 Lyon, Auvergne-Rhône-Alpes, France
 
@@ -37,7 +37,7 @@ Développement d'un Crypto Wallet self custosdy MPC TSS sur la plateforme Tezos 
 
 * Gestion du backlog, de la roadmap et de l'équipe de réalisation.
 * Gestion de la transition d'un mode projet à un mode produit.
-* Travail avec une équipe d'environ 5 personnes
+* Travail avec une équipe d'environ 5 personnes.
 
 ### Stormshield
 
@@ -80,9 +80,9 @@ Intégration d'une nouvelle équipe dédiée au développement d'une solution
 d'administration centralisée pour les équipements de sécurité réseau:
 
 * Application de la méthode SCRUM.
-* Architecture et développement d'un backend en Node.js et d'un frontend en ExtJS
+* Architecture et développement d'un backend en Node.js et d'un frontend en ExtJS.
 
-###  NETASQ
+### NETASQ
 
 12 ans 1 mois
 
@@ -91,45 +91,63 @@ d'administration centralisée pour les équipements de sécurité réseau:
 Avril 2006 - février 2014 (7 ans 11 mois)
 
 Villeneuve d'Ascq
-Encadrement et animation de l'équipe de développement des outils
-d'administration des firewalls NETASQ: technologies, architecture, design.
-* Architecture et développement de l'interface web (next-gen) d'administration.
-* Architecture et développement de l'application multiplate-forme de monitoring
-Realtime Monitor.
+
+Encadrement et animation de l'équipe de développement des outils d'administration des firewalls NETASQ:
+
+* Architecture et développement de l'interface Web next-gen d'administration, et de la solution de supervision.
 * Production des versions de maintenance des outils d'administration.
-GUI Developer - Firewall Administration Tools
-février 2002 - mars 2006 (4 ans 2 mois)
+
+#### GUI Developer - Firewall Administration Tools
+
+Février 2002 - mars 2006 (4 ans 2 mois)
+
 Villeneuve d'Ascq
+
 Participation au développement des outils d'administration des pare-feu
-NETASQ : Manager, Reporter, Global Administration et Log Analyser.
-Conception et développement de l'interface utilisateur du produit NETASQ
-Shield, un pare-feu personnel pour Windows. Le rôle incluait la production de
-spécifications fonctionnelles et de documentation technique pour ces projets.
-Cylande
-Backend Developer
-août 2001 - décembre 2001 (5 mois)
+NETASQ:
+
+* Conception et développement de l'interface utilisateur du produit NETASQ
+Shield, un pare-feu personnel pour Windows.
+* Production de spécifications fonctionnelles et de documentation technique.
+
+### Cylande
+
+#### Backend Developer
+
+Août 2001 - décembre 2001 (5 mois)
+
 Roubaix
-Développement du backend d'une solution de gestion centralisée de produits.
-Conception et mise en place d'une infrastructure solide et évolutive pour
-répondre aux besoins de l'entreprise et des utilisateurs.
 
-Groupe Lapeyre
-Analyste programmeur - Outils & Méthodes
-décembre 2000 - juillet 2001 (8 mois)
+Développement du backend d'une solution de gestion centralisée de produits:
+
+* Conception et mise en place de l'infrastructure.
+
+### Groupe Lapeyre
+
+#### Analyste programmeur - Outils & Méthodes
+
+Décembre 2000
+
+* Juillet 2001 (8 mois)
+
 Aubervilliers
-Mise en œuvre et maintenance :
 
-* De services métiers via des pools de serveurs 3-tiers COM/DCOM, assurant
-une infrastructure solide et fiable pour les applications de l'entreprise
-* D'un ensemble de composants métiers destinés aux développeurs, facilitant
-le travail des équipes de développement
-De plus, assistance aux développeurs pour les aider à résoudre les problèmes
-techniques et à optimiser leurs projets.
-Object'if
-Développeur logiciels
-juillet 1999 - novembre 2000 (1 an 5 mois)
+Mise en œuvre et maintenance de services métiers:
+
+* Utilisation de la technologie via des pools de serveurs 3-tiers COM/DCOM.
+* Réalisation de composants métiers.
+* Assistance aux développeurs.
+
+### Object'if
+
+#### Développeur logiciels
+
+Juillet 1999 - novembre 2000 (1 an 5 mois)
+
 Lille Area, France
-Travail principalement sur des projets à court terme, incluant :
+
+Participation à des projets à court:
+
 * Maintenance progressive pour l'INSEE
 * Développement d'une solution de pesage pour la centrale thermique
 d'Hornaing
@@ -138,7 +156,9 @@ d'Hornaing
 France et SA
 * Développement d'un logiciel d'assurance qualité embarqué pour le transport
 urbain pour Transpole
-Formation
-Gaston Berger
-2 years, Computer science technical degree with a focus on software
-development · (1997 - 1999)
+
+# Formation
+
+## Gaston Berger
+
+2 years, Computer science technical degree with a focus on software development · (1997 - 1999)
