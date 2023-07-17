@@ -10,155 +10,74 @@ Expert en industrialisation de logiciels avec une spécialisation en sécurité 
 
 ## Expérience
 
-### Eniblock
+### Head of Products, Eniblock - Octobre 2022 > Présent
 
-#### Head of Products
+* Piloté la stratégie d'un SDK Web3 incluant Crypto Wallet MPC TSS self-custody sur Polygon et des solutions de tokenisation.
+* Géré le backlog produit, créé la roadmap, rédigé des spécifications fonctionnelles (150+ scénarios) et la documentation.
+* Mené un programme bêta et organisé des démonstrations bihebdomadaires.
+* Transformé les processus de service en processus de produit, améliorant l'efficacité opérationnelle.
+* Instauré une stratégie de livraison continue, supprimant le besoin d'un poste de QA.
+* Dirigé une équipe interfonctionnelle de 15 personnes.
+* Utilisé une stack technique moderne (GCP, Hashicorp Vault, K8S, Docusaurus, Alchemy, Go, TypeScript, HelloNext, Jira, GitHub).
 
-Octobre 2022 - Présent
+### Wallet Product Manager, Eniblock - Janvier 2022 > octobre 2022
 
-Lyon, Auvergne-Rhône-Alpes, France
+* Piloté une équipe de 5 pour développer un Crypto Wallet auto-conservé MPC TSS sur Tezos.
+* Coordonné avec des équipes multidisciplinaires pour le développement produit.
+* Supervisé la transition de la gestion de projet à la gestion de produit.
 
-Responsable de la stratégie produit d'un SDK Web3:
+### Product Owner SMC, Stormshield - Décembre 2016 > décembre 2021
 
-* Crypto Wallet MPC TSS self custody sur Polygon, solutions de Tokenisation, facilité d'intégration dans des parcours Web 2.
-* Gestion du backlog, de la roadmap, des spécifications fonctionnelles (plus de 150 scénarios pour environ 3O fonctionnalités) et de la documentation.
-* Réalisation d'un programme bêta et de démonstrations (~ 2 par semaine).
-* Transformation des processus services en processus produits.
-* Mise en place de la livraison continue avec un focus sur la qualité.
-* Travail avec une équipe d'environ 15 personnes.
+* Piloté l'industrialisation d'une solution de d'administration centralisée d'équipements de sécurité réseau:
+* Établi la Roadmap du produit avec les parties prenantes clés.
+* Appliqué des méthodes agiles.
+* Animé une équipe de 30+ personnes, avec reporting au Comex.
+  * Maintenu un faible taux de maintenance corrective (< 5%).
+  * Géré le cycle de vie du produit: 8 versions correctives/an, 2 versions mineures/an, 1 version majeure tous les 2 ans.
 
-#### Wallet Product Manager
+### Product Owner SVC, Stormshield - Juillet 2015 > novembre 2016
 
-Janvier 2022 - octobre 2022
+* Piloté l'industrialisation d'une solution de collecte et traitement de logs de sécurité.
+* Assumé les responsabilités de développement.
+* Mis en place les processus de production, y compris l'intégration continue, les tests de non-régression et la documentation.
+* Constitué et dirigé une équipe de développement de 5 personnes.
 
-Lyon, Auvergne-Rhône-Alpes, France
+### Full Stack Developer & Scrum master, Stormshield - Février 2014 - juillet 2015
 
-Développement d'un Crypto Wallet self custosdy MPC TSS sur la plateforme Tezos (PoC):
+* Rejoint une équipe pour développer une solution d'administration centralisée pour les équipements de sécurité réseau.
+* Appliqué la méthode SCRUM.
+* Architecturé et développé un backend en Node.js et un frontend en ExtJS.
 
-* Gestion du backlog, de la roadmap et de l'équipe de réalisation.
-* Gestion de la transition d'un mode projet à un mode produit.
-* Travail avec une équipe d'environ 5 personnes.
+### Lead Programmer, NETASQ - Avril 2006 > février 2014
 
-### Stormshield
+* Gestion de l'équipe de développement des outils d'administration des firewalls NETASQ.
+* Architecturé et développé l'interface Web d'administration de la nouvelle génération et la solution de supervision.
+* Assuré la production des versions de maintenance des outils d'administration.
 
-7 ans 11 mois
+### GUI Developer, NETASQ - Février 2002 > mars 2006
 
-#### Product Owner / Product Leader - Stormshield Management Center
+* Contribué au développement des outils d'administration des pare-feu NETASQ.
+* Conçu et développé l'interface utilisateur du produit NETASQ Shield, un pare-feu personnel pour Windows.
+* Rédigé des spécifications fonctionnelles et de la documentation technique.
 
-Décembre 2016 - décembre 2021 (5 ans 1 mois)
+### Backend Developer, Cylande - Août 2001 > décembre 2001
 
-Lyon
+* Développé le backend d'une solution de gestion centralisée de produits.
+* Conçu et mis en place l'infrastructure du projet.
 
-Production d'un logiciel d'administration centralisée d'équipements de sécurité réseau:
+### Analyste programmeur Outils & Méthodes, Groupe Lapeyre - Décembre 2000 > Juillet 2001
 
-* Rédaction de spécifications fonctionnelles, de scénarios utilisateurs, gestion des priorités et planification des versions.
-* Utilisation de méthodes agiles
-* Animation > 30 personnes et reporting au Comex.
-  * Faible taux de maintenance corrective: < 5%
-  * Par an: 8 versions correctives, 2 version mineures
-  * Tous les 2 ans: 1 version majeure.
+* Implémenté et maintenu des services métiers en utilisant la technologie via des pools de serveurs 3-tiers COM/DCOM.
+* Développé des composants métiers et fourni une assistance technique aux développeurs.
 
-#### Product Owner / Product Leader - Stormshield Visibility Center
+### Développeur logiciels, Object'if - Juillet 1999 > novembre 2000
 
-Juillet 2015 - novembre 2016 (1 an 5 mois)
+### Développeur Logiciels, Object'if - Juillet 1999 > Novembre 2000
 
-Lyon
+* Contribué à plusieurs projets à court terme dans divers domaines, y compris la maintenance pour l'INSEE, le développement d'une solution de pesage pour la centrale thermique d'Hornaing, un kiosque interactif pour Ariane Système, un logiciel de gestion de projet pour International Paper France et un logiciel d'assurance qualité pour Transpole.
 
-Industrialisation d'une solution de collecte et traitement de logs de produit de sécurité.
+### Formation
 
-* Responsabilités du développement
-* Mise en place des processus de production: CI, tests de non reg, doc...
-* Constitution et direction de l'équipe de développement (5 personnes)
+### Gaston Berger
 
-#### Full Stack Developer - Scrum master - Stormshield Management Center
-
-Février 2014 - juillet 2015 (1 an 6 mois)
-
-Région de Lyon, France
-
-Intégration d'une nouvelle équipe dédiée au développement d'une solution
-d'administration centralisée pour les équipements de sécurité réseau:
-
-* Application de la méthode SCRUM.
-* Architecture et développement d'un backend en Node.js et d'un frontend en ExtJS.
-
-### NETASQ
-
-12 ans 1 mois
-
-#### GUI Team Leader - Lead Programmer - Firewall Administration Softwares
-
-Avril 2006 - février 2014 (7 ans 11 mois)
-
-Villeneuve d'Ascq
-
-Encadrement et animation de l'équipe de développement des outils d'administration des firewalls NETASQ:
-
-* Architecture et développement de l'interface Web next-gen d'administration, et de la solution de supervision.
-* Production des versions de maintenance des outils d'administration.
-
-#### GUI Developer - Firewall Administration Tools
-
-Février 2002 - mars 2006 (4 ans 2 mois)
-
-Villeneuve d'Ascq
-
-Participation au développement des outils d'administration des pare-feu
-NETASQ:
-
-* Conception et développement de l'interface utilisateur du produit NETASQ
-Shield, un pare-feu personnel pour Windows.
-* Production de spécifications fonctionnelles et de documentation technique.
-
-### Cylande
-
-#### Backend Developer
-
-Août 2001 - décembre 2001 (5 mois)
-
-Roubaix
-
-Développement du backend d'une solution de gestion centralisée de produits:
-
-* Conception et mise en place de l'infrastructure.
-
-### Groupe Lapeyre
-
-#### Analyste programmeur - Outils & Méthodes
-
-Décembre 2000
-
-* Juillet 2001 (8 mois)
-
-Aubervilliers
-
-Mise en œuvre et maintenance de services métiers:
-
-* Utilisation de la technologie via des pools de serveurs 3-tiers COM/DCOM.
-* Réalisation de composants métiers.
-* Assistance aux développeurs.
-
-### Object'if
-
-#### Développeur logiciels
-
-Juillet 1999 - novembre 2000 (1 an 5 mois)
-
-Lille Area, France
-
-Participation à des projets à court:
-
-* Maintenance progressive pour l'INSEE
-* Développement d'une solution de pesage pour la centrale thermique
-d'Hornaing
-* Développement d'un kiosque interactif pour hôtel pour Ariane Système
-* Développement d'un logiciel de gestion de projet pour International Paper
-France et SA
-* Développement d'un logiciel d'assurance qualité embarqué pour le transport
-urbain pour Transpole
-
-# Formation
-
-## Gaston Berger
-
-2 years, Computer science technical degree with a focus on software development · (1997 - 1999)
+BTS Informatique de Gestion axé sur le développement logiciel · (1997 - 1999)
