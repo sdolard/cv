@@ -72,8 +72,6 @@ Expert en industrialisation de logiciels avec une spécialisation en sécurité 
 
 ### Développeur logiciels, Object'if - Juillet 1999 > novembre 2000
 
-### Développeur Logiciels, Object'if - Juillet 1999 > Novembre 2000
-
 * Contribué à plusieurs projets à court terme dans divers domaines, y compris la maintenance pour l'INSEE, le développement d'une solution de pesage pour la centrale thermique d'Hornaing, un kiosque interactif pour Ariane Système, un logiciel de gestion de projet pour International Paper France et un logiciel d'assurance qualité pour Transpole.
 
 ### Formation
