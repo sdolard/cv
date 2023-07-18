@@ -112,7 +112,7 @@ Software industrialization expert with a focus on network security and blockchai
 * Coordinated with multidisciplinary teams for product development.
 * Supervised the transition from project management to product management.
 
-### Product Owner SMC, Stormshield - December 2016 > December 2021
+### Product Owner SMC, Stormshield (Airbus) - December 2016 > December 2021
 
 * Led the industrialization of a centralized administration solution for network security equipment.
 * Established the product roadmap with key stakeholders.
@@ -121,14 +121,14 @@ Software industrialization expert with a focus on network security and blockchai
   * Maintained a low corrective maintenance rate (< 5%).
   * Managed the product lifecycle: 8 corrective versions/year, 2 minor versions/year, 1 major version every 2 years.
 
-### Product Owner SVC, Stormshield - July 2015 > November 2016
+### Product Owner SVC, Stormshield (Airbus) - July 2015 > November 2016
 
 * Led the industrialization of a security log collection and processing solution.
 * Assumed development responsibilities.
 * Implemented production processes, including continuous integration, non-regression tests, and documentation.
 * Formed and led a development team of 5 people.
 
-### Full Stack Developer & Scrum Master, Stormshield - February 2014 > July 2015
+### Full Stack Developer & Scrum Master, Stormshield (Airbus) - February 2014 > July 2015
 
 * Joined a team to develop a centralized administration solution for network security equipment.
 * Applied the SCRUM methodology.
