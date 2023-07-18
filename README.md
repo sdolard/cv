@@ -26,7 +26,7 @@ Expert en industrialisation de logiciels avec une spécialisation en sécurité 
 * Coordination avec des équipes multidisciplinaires pour le développement du produit.
 * Supervision de la transition du mode projet au mode produit.
 
-### Product Owner SMC, Stormshield - Décembre 2016 > décembre 2021
+### Product Owner SMC, Stormshield (Airbus) - Décembre 2016 > décembre 2021
 
 * Pilotage de l'industrialisation d'une solution d'administration centralisée d'équipements de sécurité réseau.
 * Établissement de la roadmap du produit avec les parties prenantes clés.
@@ -35,14 +35,14 @@ Expert en industrialisation de logiciels avec une spécialisation en sécurité 
   * Maintien d'un faible taux de maintenance corrective (< 5%).
   * Gestion du cycle de vie du produit : 8 versions correctives/an, 2 versions mineures/an, 1 version majeure tous les 2 ans.
 
-### Product Owner SVC, Stormshield - Juillet 2015 > novembre 2016
+### Product Owner SVC, Stormshield(Airbus) - Juillet 2015 > novembre 2016
 
 * Pilotage de l'industrialisation d'une solution de collecte et de traitement de logs de sécurité.
 * Prise en charge des responsabilités de développement.
 * Mise en place de processus de production, dont l'intégration continue, les tests de non-régression et la documentation.
 * Formation et direction d'une équipe de développement de 5 personnes.
 
-### Full Stack Developer & Scrum Master, Stormshield - Février 2014 > juillet 2015
+### Full Stack Developer & Scrum Master, Stormshield(Airbus) - Février 2014 > juillet 2015
 
 * Intégration d'une équipe dédiée au développement d'une solution d'administration centralisée pour les équipements de sécurité réseau.
 * Application de la méthode SCRUM.
